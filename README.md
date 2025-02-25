@@ -1,7 +1,7 @@
 <h1 align="center"> Jutheus </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto criado a partir de aulas da Rocketseat.
 </p>
 
 <p align="center">
